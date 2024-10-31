@@ -7,9 +7,9 @@ This repo contains data of users in Bangalore with over 100 followers and their 
 
 1. Made a GET request with filter criteria as query param. For the users recieved in response, fetched user details. Using the same process fetched data for Repository details. Saved the data incsv files as required.
 
-2. Pascal language having highest average number of stars per repository, although the language's popularity has waned substantially..
+2. Pascal language having highest average number of stars per repository, although the language's popularity has waned substantially.
 
-3. To make your work popular, keep adding repos as from the analysis it is evident that the users who create more repositories tend to attract more followers.
+3. To make your work popular working with popular languages helps, adding more repos doesn't attract more followers.
 
 
 
